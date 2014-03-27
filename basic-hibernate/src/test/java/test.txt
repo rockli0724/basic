@@ -1,0 +1,5 @@
+06. 对basedao测试01
+
+这里讲所有测试hibernate基类的model以及dao都放在test中。 这样子maven就不会将这些测试类打包。
+
+

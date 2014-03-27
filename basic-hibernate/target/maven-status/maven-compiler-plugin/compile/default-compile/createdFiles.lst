@@ -1,0 +1,5 @@
+com\lj\basic\dao\IBaseDao.class
+com\lj\basic\model\SystemContext.class
+com\lj\basic\dao\BaseDao.class
+com\lj\basic\util\HibernateUtil.class
+com\lj\basic\model\Pager.class
